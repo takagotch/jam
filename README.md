@@ -2,7 +2,7 @@
 ---
 https://github.com/caolan/jam
 
-```
+```sh
 jam install jquery
 npm install -g jamjs
 
